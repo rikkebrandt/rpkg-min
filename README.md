@@ -1,6 +1,7 @@
 # The Amazing rpkgMin
 
 This package is the bear
+And has not been touched by agent MUM
 ---
 
 [Jumping Rivers](https://jumpingrivers.com) are RStudio Certified partners. We are currently developing
