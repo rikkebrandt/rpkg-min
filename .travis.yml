@@ -5,3 +5,13 @@ r:
   - oldrel
   - release
   - devel
+  
+notifications:
+  email:
+    on_succes: change
+    on_failure: change
+    recipients: 
+      - rsbr@novonordisk.com
+      
+git:
+  depth: 3 ##false ##if set to false then only the current commit will be synced
